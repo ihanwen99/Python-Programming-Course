@@ -132,10 +132,10 @@
 项目展示
 --------
 
-<div align=center><img src="README/ch0.jpg" alt="ch0" style="zoom:49%;" /><img src="README/ch1.png" alt="ch1" style="zoom:49%;" /></div>
+<div align=center><img src="README/ch0.jpg" alt="ch0" style="zoom:33%;" /><img src="README/ch1.png" alt="ch1" style="zoom:33%;" /></div>
 
 
-<div align=center><img src="README/ch5.jpg" alt="ch4" style="zoom:48%;" /><img src="README/ch4.jpg" alt="ch5" style="zoom:41%;" /></div>
+<div align=center><img src="README/ch5.jpg" alt="ch4" style="zoom:40%;" /><img src="README/ch4.jpg" alt="ch5" style="zoom:34%;" /></div>
 
 
 总结
