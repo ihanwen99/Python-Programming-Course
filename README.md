@@ -1,10 +1,9 @@
 # Python-Programming
- 2019Fall-SJTU
+SJTU-2019FALL-CS902-Homework & Project
 
-In this lesson, teacher use Python2, while Python3 is more popular now.
+This course teaches Python2. 
 
-I submit the homework and lab in this repository.
+I update my code for homework and final project here.
 
-I think it is very basic. 
+This repo is a basic programming language application.
 
-Good Luck to u, good luck to me.
