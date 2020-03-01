@@ -1,5 +1,5 @@
 # Python-Programming
-SJTU-2019FALL-CS902-Homework & Project
+SJTU-2019FALL-CS902-Homework & Final Project
 
 This course teaches Python2. 
 
